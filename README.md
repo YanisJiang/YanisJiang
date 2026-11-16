@@ -8,7 +8,7 @@ I build and ship multiplayer games from 0 to 1, with a deep focus on low-level n
 *   🌐 **Networking**: State Sync Framework, Rollback, Reconnection, Delay Compensation.
 *   🎮 **Engine & Tech**: Cocos Creator (2.4/3.8), C++, TypeScript, UE5.
 *   🤖 **AI-Augmented**: LoRA, Cursor, Internal Tooling.
-> *Note: UE5 and LoRA projects were developed in commercial environments and are closed-source. The TypeScript state sync framework can be verified via the Steam project above.*
+> *Note: Cocos Creator, UE5, and LoRA projects were developed in commercial environments and are closed-source. The TypeScript state sync framework can be verified via the Steam project above.*
 
 #### 📌 Featured Projects
 *   **[ChineseChess](https://github.com/YanisJiang/ChineseChess)**: A browser-based Chinese Chess engine built with **Vite + React + TypeScript**. Features human-vs-AI, local hot-seat, and game study/replay modes.
